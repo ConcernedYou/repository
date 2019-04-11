@@ -1,0 +1,166 @@
+.rock{position: fixed; right: 2%;top: 80%;z-index: 99;}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	width: 100%;
+	height: 100px;
+}
+.header-1{
+	margin: auto;
+	width: 1200px;
+	height: 100px;
+	background-color:white;
+}
+.header-1 ul{
+	list-style: none;
+}
+ul{
+	display: flex;
+	justify-content: space-between;
+}
+.header-2{
+	width: 100%;
+	height: 600px;
+	background: url(../img/xz_02.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position:relative;
+}
+.header-2a ul{
+	width: 1200px;
+	list-style: none;
+	font-weight: 520;
+	display: flex;
+	justify-content: space-between;
+}
+.header-2a{
+	margin: auto;
+	width: 1200px;
+	height: 50px;
+}
+.header-2a li a{color:#36A3DF;}
+.header-2a li a:hover{color:#F29000;}
+.header-2a li a:active{color:#F29000;}
+.header-2 li{
+	z-index: 5;
+}
+.header-3{
+	margin: auto;
+	width: 1200px;
+	height: 400px;
+	margin-top: 30px;
+	background-color: white;
+}
+.lan{color:  #009AE2;}
+.zi:hover{color:white;}
+.zi{color: #666666;line-height: 2;width: 200px;font-size: 12px;margin: auto;}
+.a:hover{
+	background-color: #C153AE;
+	color: white;
+	border-radius: 20px 20px 20px 20px;
+}
+.b:hover{
+	background-color: #1AD9A9;
+	color: white;
+	border-radius: 20px 20px 20px 20px;
+}
+.c:hover{
+	background-color: #7887F5;
+	color: white;
+	border-radius: 20px 20px 20px 20px;
+}
+.d:hover{
+	background-color: #FCCD1C;
+	color: white;
+	border-radius: 20px 20px 20px 20px;
+}
+
+.header-3 ul{
+	list-style: none;
+}
+.header-4{
+	width: 100%;
+	height: 600px;
+	position: relative;
+	background: url(../img/imgs_28.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.header-4h{
+	width: 1200px;
+	margin: auto;
+}
+.header-4a{
+	width: 590px;
+	height: 280px;
+	margin-left: 600px;
+	position: absolute;
+}
+.header-4b{
+	width: 280px;
+	height: 295px;
+	margin-left: 600px;
+	margin-top: 305px;
+	position: absolute;
+}
+.header-4c{
+	width: 280px;
+	height: 295px;
+	margin-left: 900px;
+	margin-top: 305px;
+	position: absolute;
+}
+.header-5 {
+	width: 100%;
+	height: 100%;
+}
+.header-5 {
+	margin: auto;
+	width: 1200px;
+	height: 170px;
+	border: 1px black;
+}
+.header-5 ul{
+	margin-top: 50px;
+	list-style: none;
+}
+.footer{
+	width: 100%;
+	height: 40px;
+	background-color:#7CCBE7 ;
+}
+.footer-h{
+	width: 1200px;
+	margin: auto;
+}
+.footer ul{
+	position: absolute;
+	list-style: none;
+	margin-left: 310px;
+}
+.footer-1{
+	position: relative;
+	width: 100%;
+	height: 300px;
+	background: url(../img/24.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.footer-1h{
+	margin: auto;
+	width: 1200px;
+	height: 300px;
+}
+.footer li{
+	margin-left: 20px;
+}
+.footer-2{
+	margin: auto;
+	width: 1200px;
+	height: 300px;
+}
+.footer-2 ul{
+	list-style: none;
+}

@@ -1,0 +1,126 @@
+html{ width:100%; overflow-x:hidden;}
+.header-2-z{
+	width: 100%;
+	height: 350px;
+	background: url(../img/aaa_93.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position:relative;
+}
+.header-2a-z ul{
+	width: 1200px;
+	list-style: none;
+	font-weight: 520;
+	display: flex;
+	justify-content: space-between;
+}
+.header-2a-z{
+	margin: auto;
+	width: 1200px;
+	height: 50px;
+}
+.header-2-z li{
+	z-index: 5;
+}
+.bodyer-B{
+	width: 100%;
+	height: 1000px;
+	background-color:#F9F9F9 ;
+}
+.bodyer{
+	width: 1200px;
+	height: 1000px;
+	margin: auto;
+	background-color: #F9F9F9;
+}
+.bodyer-1{
+	width: 260px;
+	height: 650px;
+	background-color: #F9F9F9;
+	border-radius: 20px 20px 20px 20px;
+	border: 1px solid #E0E0E0;
+}
+.bodyer ul{
+	list-style: none;
+}
+.img-1{
+	background: url(../img/aaa_94.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width:260px;
+	height: 60px;
+}
+.img-2{
+	margin: auto;
+	width:240px;
+	height: 55px;
+	border-bottom: 1px dashed #E6E6E6;
+}
+.img-3{
+	width: 235px;
+	height: 25px;
+}
+.img-4{
+	position: relative;
+	margin-top: 15px;
+}
+.bodyer-1a{
+	width: 240px;
+	height: 25px;
+	position: relative;
+}
+.icon-im{
+	width: 250px;
+	height: 25px;
+	margin-top: 30px;
+	padding-left:10px;
+	border: 1px solid #008CD7;
+	background: url(../img/par_chsubd.png)no-repeat  right 10px center;
+	border-radius: 20px 20px 20px 20px;
+}
+.bodyer-2{
+	width: 900px;
+	height: 1200px;
+	border-radius: 20px 20px 20px 20px;
+	background-color:white;
+	border: 1px solid #E0E0E0;
+}
+.bodyer-2a{
+	margin: auto;
+	height: 75px;
+	width: 880px;
+	position: relative;
+	border-bottom: 1px solid #E0E0E0;
+}
+.bodyer-2b{
+	margin: auto;
+	height: 190px;
+	width: 880px;
+	position: relative;
+	border-bottom: 1px dashed #8E8E8E;
+}
+.bodyer-2cc{
+	margin: auto;
+	margin-top: 25px;
+	height: 65px;
+	width: 880px;
+	border: 1px solid #CBCBCB;
+}
+.bodyer-2cc-1{
+	width: 65px;
+	height: 65px;
+	padding-left: 30px;
+	background-color:#8E8E8E ;
+}
+.bodyer-2cc-2{
+	width: 50px;
+	height: 65px;
+	padding-left: 30px;
+	background-color:#31A2DC ;
+}
+.bodyer-2cc-3{
+	margin: auto;
+	width: 880px;
+	margin-left: 380px;
+	margin-top: 70px;
+}
